@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-tutorial-express",
+  "version": "1.0.0",
+  "description": "Node.js tutorial demonstrating Express.js framework with multiple HTTP endpoints",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "nodejs",
+    "tutorial",
+    "express",
+    "http",
+    "server",
+    "api",
+    "endpoints"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
